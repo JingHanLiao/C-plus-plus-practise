@@ -1,0 +1,1 @@
+input the two number,output the least common multiple by two number。
